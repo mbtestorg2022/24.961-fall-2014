@@ -4,6 +4,7 @@ description: 'This resource contains the information regarding prosodic morpholo
   hypocoristics and clippings: three case studies.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-961-introduction-to-phonology-fall-2014/277e4404c396e7fd72af4007f64263eb_MIT24_961F14_Lecture27a.pdf
 file_type: application/pdf
+parent_uid: eeeb2664-2a52-1096-345e-f7f687fd77c4
 resourcetype: Document
 title: '24.961F14 Introduction to Phonology - Lecture Notes: Hypocoristics and Clippings'
 uid: 277e4404-c396-e7fd-72af-4007f64263eb

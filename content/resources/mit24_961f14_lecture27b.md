@@ -4,6 +4,7 @@ description: 'This resource contains the information regarding prosodic morpholo
   hypocoristics in fon (Ewe) and spanish.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-961-introduction-to-phonology-fall-2014/83f54b455cb20d2d65ba9b89cc1fb816_MIT24_961F14_Lecture27b.pdf
 file_type: application/pdf
+parent_uid: eeeb2664-2a52-1096-345e-f7f687fd77c4
 resourcetype: Document
 title: '24.961F14 Introduction to Phonology - Lecture Notes: Hypocoristics in Fon
   and Spanish'
